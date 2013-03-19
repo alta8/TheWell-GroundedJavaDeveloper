@@ -10,7 +10,7 @@ public class StringsInSwitch {
 		
 		switch (id) {
 		case "4711":
-			System.out.println("kölsch wasser");
+			System.out.println("koelsch wasser");
 			break;
 
 		case "42":
@@ -18,7 +18,7 @@ public class StringsInSwitch {
 			break;
 			
 		default:
-			System.out.println("noch nicht geklärt");
+			System.out.println("noch nicht geklaert");
 			break;
 		}
 	
